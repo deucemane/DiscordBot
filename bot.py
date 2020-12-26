@@ -12,3 +12,4 @@ async def on_ready():
 
 #calls Controller
 client.run('NzY4ODgyMDQ4MDcyMDI0MDk3.X5G7NQ.h0ShLojdiDCAeium9MSot461TRY')
+#this token was reset after Discord scanned and found it here.
