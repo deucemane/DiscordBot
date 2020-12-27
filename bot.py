@@ -24,4 +24,4 @@ async def on_member_remove(member):
 
 #calls Controller
 client.run('NzY4ODgyMDQ4MDcyMDI0MDk3.X5G7NQ.xFpgfH-0IpJNTAJKRpBMmZeX3wQ')
-#might have to change token every upload
+#will have to change token every upload
